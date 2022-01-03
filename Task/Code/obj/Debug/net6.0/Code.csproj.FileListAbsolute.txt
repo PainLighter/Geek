@@ -1,0 +1,15 @@
+D:\New folder\Task\Code\bin\Debug\net6.0\Code.exe
+D:\New folder\Task\Code\bin\Debug\net6.0\Code.deps.json
+D:\New folder\Task\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+D:\New folder\Task\Code\bin\Debug\net6.0\Code.dll
+D:\New folder\Task\Code\bin\Debug\net6.0\ref\Code.dll
+D:\New folder\Task\Code\bin\Debug\net6.0\Code.pdb
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.dll
+D:\New folder\Task\Code\obj\Debug\net6.0\ref\Code.dll
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.pdb
+D:\New folder\Task\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
